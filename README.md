@@ -42,10 +42,19 @@ Solutions will be added here as they are completed.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
