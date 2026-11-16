@@ -59,6 +59,7 @@ Solutions will be added here as they are completed.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
+| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Sorting
 |  |
@@ -78,13 +79,16 @@ Solutions will be added here as they are completed.
 ## Design
 |  |
 | ------- |
+| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
