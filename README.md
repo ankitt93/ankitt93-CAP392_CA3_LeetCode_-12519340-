@@ -1,97 +1,25 @@
 # LeetCode Solutions
 
-Java solutions synced with LeetHub and organized by difficulty.
+Solutions are synced with LeetHub and organized by difficulty.
 
-## Easy
-- [1342. Number of Steps to Reduce a Number to Zero](Easy/01_LC1342_NumberOfStepsToReduceANumberToZero_Easy.java)
+## Easy (7 solutions + 1 README-only entry)
+- [0009 - Palindrome Number](Easy/0009_PalindromeNumber_Easy.java)
+- [0069 - Sqrt(x)](Easy/0069_Sqrtx_Easy.java)
+- [0217 - Contains Duplicate](Easy/0217_ContainsDuplicate_Easy.java)
+- [0258 - Add Digits](Easy/0258_AddDigits_Easy.java)
+- [0367 - Valid Perfect Square](Easy/0367_ValidPerfectSquare_Easy.java)
+- [1295 - Find Numbers with Even Number of Digits](Easy/1295_FindNumbersWithEvenNumberOfDigits_Easy.java)
+- [1342 - Number of Steps to Reduce a Number to Zero](Easy/01_LC1342_NumberOfStepsToReduceANumberToZero_Easy.java)
+- [2114 - Maximum Number of Words Found in Sentences](Easy/2114_MaximumNumberOfWordsFoundInSentences_README.md) — LeetHub README exists, but no Java solution file was present.
 
-## Medium
-Solutions will be added here as they are completed.
+## Medium (6 solutions)
+- [0007 - Reverse Integer](Medium/0007_ReverseInteger_Medium.java)
+- [0015 - 3Sum](Medium/0015_3Sum_Medium.java)
+- [0016 - 3Sum Closest](Medium/0016_3SumClosest_Medium.java)
+- [0073 - Set Matrix Zeroes](Medium/0073_SetMatrixZeroes_Medium.java)
+- [2349 - Design a Number Container System](Medium/2349_DesignANumberContainerSystem_Medium.java)
+- [2353 - Design a Food Rating System](Medium/2353_DesignAFoodRatingSystem_Medium.java)
 
-## Hard
-Solutions will be added here as they are completed.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0009-palindrome-number) |
-| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
-| [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
-| [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
-## Binary Search
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
-| [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0016-3sum-closest) |
-| [0041-first-missing-positive](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0041-first-missing-positive) |
-| [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
-| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-## String
-|  |
-| ------- |
-| [0065-valid-number](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0065-valid-number) |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-## Hash Table
-|  |
-| ------- |
-| [0041-first-missing-positive](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0041-first-missing-positive) |
-| [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
-| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
-| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0016-3sum-closest) |
-| [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0016-3sum-closest) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
-## Design
-|  |
-| ------- |
-| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-## Ordered Set
-|  |
-| ------- |
-| [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
-| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
-<!---LeetCode Topics End-->
+## Hard (2 solutions)
+- [0041 - First Missing Positive](Hard/0041_FirstMissingPositive_Hard.java)
+- [0065 - Valid Number](Hard/0065_ValidNumber_Hard.java)
