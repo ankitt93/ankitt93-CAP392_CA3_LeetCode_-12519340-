@@ -20,6 +20,7 @@ Solutions will be added here as they are completed.
 | [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@ Solutions will be added here as they are completed.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
