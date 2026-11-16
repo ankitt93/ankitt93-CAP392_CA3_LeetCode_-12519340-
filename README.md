@@ -16,6 +16,7 @@ Solutions will be added here as they are completed.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
 ## Simulation
@@ -29,5 +30,10 @@ Solutions will be added here as they are completed.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
