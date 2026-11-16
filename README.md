@@ -48,15 +48,18 @@ Solutions will be added here as they are completed.
 | [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +75,16 @@ Solutions will be added here as they are completed.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
+## Design
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
