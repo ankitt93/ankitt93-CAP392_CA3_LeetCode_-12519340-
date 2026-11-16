@@ -44,6 +44,7 @@ Solutions will be added here as they are completed.
 | ------- |
 | [0015-3sum](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@ Solutions will be added here as they are completed.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0217-contains-duplicate) |
 | [2349-design-a-number-container-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2349-design-a-number-container-system) |
