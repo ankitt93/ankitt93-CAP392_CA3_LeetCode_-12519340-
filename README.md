@@ -52,6 +52,7 @@ Solutions will be added here as they are completed.
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0065-valid-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2353-design-a-food-rating-system](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/2353-design-a-food-rating-system) |
 ## Hash Table
