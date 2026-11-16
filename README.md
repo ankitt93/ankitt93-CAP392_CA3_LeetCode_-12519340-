@@ -17,6 +17,7 @@ Solutions will be added here as they are completed.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/ankitt93/ankitt93-CAP392_CA3_LeetCode_-12519340-/tree/master/0367-valid-perfect-square) |
